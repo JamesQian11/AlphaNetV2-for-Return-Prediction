@@ -7,8 +7,6 @@ import warnings
 import numpy as np
 import pandas as pd
 
-from WMBYPlatform import StrategyPlatform
-
 warnings.filterwarnings('ignore')
 
 
