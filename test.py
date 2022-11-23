@@ -2,7 +2,6 @@ from datetime import date
 import numpy as np
 from dateutil.parser import parse
 import pandas as pd
-from WMBYPlatform import StrategyPlatform
 import pandas as pd
 from alphanet import AlphaNetV2, AlphaNetV3, AlphaNetV4, load_model
 from src.alphanet.data import TrainValData, TimeSeriesData
